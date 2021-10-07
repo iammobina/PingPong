@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\AVAJANG\source\repos\pingpong\pingpong\Source.cpp(125,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\AVAJANG\source\repos\pingpong\pingpong\Source.cpp(142,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\AVAJANG\source\repos\pingpong\pingpong\Source.cpp(144,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\AVAJANG\source\repos\pingpong\pingpong\Source.cpp(144,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  pingpong.vcxproj -> C:\Users\AVAJANG\source\repos\pingpong\Debug\pingpong.exe
