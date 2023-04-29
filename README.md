@@ -1,4 +1,4 @@
-# Ping Pong
+# Ping Pong   
 
 Table tennis or Ping pong is a two-player game. One player is a human and another player is a machine(computer) that can play with a really simple artificial intelligence algorithm.
 
